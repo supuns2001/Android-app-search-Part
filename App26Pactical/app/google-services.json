@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150545423626",
+    "project_id": "app26-practical-91621",
+    "storage_bucket": "app26-practical-91621.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150545423626:android:1dc9685a79a9e355002ef3",
+        "android_client_info": {
+          "package_name": "lk.javainstitute.app26pactical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjzkN5UkusvFAhyXeHJFMT0svpsYrV5Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

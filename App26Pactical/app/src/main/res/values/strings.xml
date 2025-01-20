@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App26Pactical</string>
+    <string name="title1">Product Registration</string>
+    <string name="text1">Product Name</string>
+    <string name="text2">Brand name</string>
+    <string name="text3">Quantity </string>
+    <string name="text4">Price </string>
+    <string name="button1">Add Product </string>
+    <string name="button2">Search Product </string>
+</resources>
